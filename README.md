@@ -17,7 +17,8 @@ A word prediction app made with shiny.
 
 - The text mining and natural language processing was done using R programming.
 
-The Applied Methods
+## The Applied Methods
+
 - First, we create sample data from the HC Corpora data, which was cleaned (lowercasing, remove special characters, links etc)
 
 - Then, data sample was then tokenized into so-called n-grams.
