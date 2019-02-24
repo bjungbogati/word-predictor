@@ -42,4 +42,3 @@ Word prediction app is hosted on shinyapps.io:
 The project pitch is hosted : Word Prediction
 
 Learn more about the Coursera Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
-
